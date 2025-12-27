@@ -36,3 +36,14 @@ User stories (high level)
 7. Reports (later / low priority)
 
     As a manager, I want to see basic counts of tickets by status and date so I can understand workload and performance.
+
+### Current Jira backlog (Sprint 0)
+
+| Key     | Title                                      | Status          | Sprint          |
+|--------|--------------------------------------------|-----------------|-----------------|
+| SCRUM-6| MiniSupport – Customer Ticketing System (Epic)| Product Backlog | (Epic)          |
+| SCRUM-1| Scrum Project & Board ready                | Product Backlog | Sprint 0 – Setup|
+| SCRUM-2| Create Documentation Structure             | Product Backlog | Sprint 0 – Setup|
+| SCRUM-7| GitHub repository & branches created       | Product Backlog | Sprint 0 – Setup|
+| SCRUM-8| VS Code connected to GitHub (both developers)| Product Backlog | Sprint 0 – Setup|
+    
