@@ -17,3 +17,7 @@ Target users
 Product vision statement
 
 “MiniSupport enables small businesses to handle every customer request in one place, turning unstructured emails and messages into a clear, trackable workflow that improves response time, visibility, and customer trust.”
+
+“Out of scope for MVP” (no AI, no payments, no mobile app).
+
+“Risks & assumptions” (e.g., single small business, small number of users).
