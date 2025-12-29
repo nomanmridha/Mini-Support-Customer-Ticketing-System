@@ -68,7 +68,7 @@ code .
 ---
 
 ## Image Example
-![Customer Support](./image/1.PNG)
+![Customer Support](./image/1.png)
 
  ## 📊 Project Summary Table
 | Feature | Description |
